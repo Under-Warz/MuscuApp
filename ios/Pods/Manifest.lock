@@ -1,0 +1,24 @@
+PODS:
+  - React/ART (0.41.2):
+    - React/Core
+  - React/Core (0.41.2):
+    - React/cxxreact
+    - React/yoga
+  - React/cxxreact (0.41.2):
+    - React/jschelpers
+  - React/jschelpers (0.41.2)
+  - React/yoga (0.41.2)
+
+DEPENDENCIES:
+  - React/ART (from `../node_modules/react-native`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: ../node_modules/react-native
+
+SPEC CHECKSUMS:
+  React: 2b10c07d947dea71c144a33764e9162ed81e3825
+
+PODFILE CHECKSUM: 28a002b92e46c57dbe2ed83bcff6bc0212dc156e
+
+COCOAPODS: 1.1.1

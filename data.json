@@ -1,0 +1,195 @@
+[
+	{
+		"name": "Programme Apollon"
+	},
+	{
+		"name": "Team Fitadium",
+		"trainings": [
+			{
+				"name": "Pectoraux / Triceps",
+				"exercices": [
+					{
+						"name": "Développé couché (Pyramidal)",
+						"reps": [15, 10, 6, 6],
+						"weights": [0, 0, 0, 0],
+						"rest": 90
+					},
+					{
+						"name": "Développé incliné haltères",
+						"reps": [6, 8, 10],
+						"weights": [0, 0, 0],
+						"rest": 75
+					},
+					{
+						"name": "Dips lestés",
+						"reps": ["max", "max"],
+						"weights": [0, 0],
+						"rest": 75
+					},
+					{
+						"name": "Butterfly",
+						"reps": ["deg", "deg", "deg"],
+						"weights": [0, 0, 0],
+						"rest": 90
+					},
+					{
+						"name": "Exension barre au front",
+						"reps": [8, 8, 8, 8],
+						"weights": [0, 0, 0, 0],
+						"rest": 75
+					},
+					{
+						"name": "Extension corde poulie haute",
+						"reps": ["deg", "deg", "deg", "deg"],
+						"weights": [0, 0, 0, 0],
+						"rest": 90
+					}
+				]
+			},
+			{
+				"name": "Cuisses / mollets / Abdos",
+				"exercices": [
+					{
+						"name": "Presse",
+						"reps": [15, 10, 6],
+						"weights": [0, 0, 0],
+						"rest": 90
+					},
+					{
+						"name": "Squat",
+						"reps": [10, 10, 10, 10],
+						"weights": [0, 0, 0, 0],
+						"rest": 90
+					},
+					{
+						"name": "Legs extension",
+						"reps": [10, 10, 10, 10],
+						"weights": [0, 0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Legs curls",
+						"reps": [10, 10, 10],
+						"weights": [0, 0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Mollets - Presse debout",
+						"reps": [12, 12, 12, 12, 12],
+						"weights": [0, 0, 0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Abdos - Crunchs",
+						"reps": ["max", "max", "max", "max", "max", "max"],
+						"weights": [0, 0, 0, 0, 0, 0],
+						"rest": 30
+					}
+				]
+			},
+			{
+				"name": "Repos"
+			},
+			{
+				"name": "Dos / Biceps",
+				"exercices": [
+					{
+						"name": "Tirage vertical devant",
+						"reps": [15, 10, 6, 6],
+						"weights": [0, 0, 0, 0],
+						"rest": 90
+					},
+					{
+						"name": "Tirage nuque",
+						"reps": [6, 8, 10, 10],
+						"weights": [0, 0, 0, 0],
+						"rest": 90
+					},
+					{
+						"name": "Soulevé de terre",
+						"reps": [10, 10],
+						"weights": [0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Rowing assis",
+						"reps": [8, 8, 8],
+						"weights": [0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Curls barre EZ",
+						"reps": [10, 10, 10],
+						"weights": [0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Curls barre droite pronation",
+						"reps": [12, 12, 12],
+						"weights": [0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Curls alternés",
+						"reps": ["deg"],
+						"weights": [0],
+						"rest": 60
+					}
+				]
+			},
+			{
+				"name": "Epaules / Trapèzes / Abdos",
+				"exercices": [
+					{
+						"name": "Développé haltères",
+						"reps": [10, 10, 10],
+						"weights": [0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Rowing menton",
+						"reps": [8, 8, 8],
+						"weights": [0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Elévations latérales",
+						"reps": [8, 8],
+						"weights": [0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Oiseau",
+						"reps": [10, 10],
+						"weights": [0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Trapèzes - Shrugs",
+						"reps": [8, 8, 8],
+						"weights": [0, 0, 0],
+						"rest": 60
+					},
+					{
+						"name": "Abdos - Chaîse romaine",
+						"reps": ["max", "max", "max", "max", "max", "max"],
+						"weights": [0, 0, 0, 0, 0, 0],
+						"rest": 30
+					},
+					{
+						"name": "Gainage planche",
+						"reps": ["max", "max", "max", "max", "max"],
+						"weights": [0, 0, 0, 0, 0],
+						"rest": 30
+					}
+				]
+			},
+			{
+				"name": "Repos"
+			},
+			{
+				"name": "Repos"
+			}
+		]
+	}
+]
